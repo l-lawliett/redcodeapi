@@ -32,7 +32,7 @@ app.use(function (req, res, next) {
 });
  
 app.get('/api', function (req, res) {
-  res.end('file catcher example');
+  res.end('file upload is ready');
 });
  
 app.post('/api/upload',upload.single('file'), function (req, res) {
