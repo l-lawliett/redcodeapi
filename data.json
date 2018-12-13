@@ -1,16 +1,16 @@
 [{
     "Id": "55",
     "FileName": "test",
-    "Type": "PDF",
+    "Type": "Invoice",
     "FilePath": "/nodeServer/uploads/test.pdf",
-    "DateCreated": "2018-10-02 11:20:20",
+    "DateCreated": "2018-10-02 11:20:19",
     "DateModified": "NULL",
     "DateDeleted": "NULL"
 },
 {
     "Id": "2",
     "FileName": "test2",
-    "Type": "PDF",
+    "Type": "DriversLicense",
     "FilePath": "/nodeServer/uploads/test2.pdf",
     "DateCreated": "2018-10-02 11:20:20",
     "DateModified": "NULL",
@@ -19,9 +19,9 @@
 {
     "Id": "3",
     "FileName": "NewDocument",
-    "Type": "PDF",
-    "FilePath": "/nodeServer/uploads/test2.pdf",
-    "DateCreated": "2018-10-02 11:20:20",
+    "Type": "PoliceRecord",
+    "FilePath": "/nodeServer/uploads/NewDocument.pdf",
+    "DateCreated": "2018-10-02 11:20:21",
     "DateModified": "NULL",
     "DateDeleted": "NULL"
 }]
